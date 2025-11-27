@@ -1,5 +1,6 @@
 ﻿# IngSoft\_P5
 
 -integrante:Ana Sabogal
--integrante2: Rania DSouli
+-integrante: Rania DSouli
+- integrante: Rosana González
 
