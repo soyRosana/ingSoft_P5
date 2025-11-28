@@ -11,6 +11,6 @@ public class HelloController {
     @GetMapping
     public String saludo() {
         // devuelve exactamente lo que pediste
-        return "¡hello world!";
+        return "¡hello world!, Ingeniería del software";
     }
 }
