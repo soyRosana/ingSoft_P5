@@ -11,6 +11,6 @@ public class AnaController {
     @GetMapping
     public String saludo() {
         // devuelve exactamente lo que pediste
-        return "¡hello world!";
+        return "controlador de Ana";
     }
 }
